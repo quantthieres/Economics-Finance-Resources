@@ -1,9 +1,16 @@
-# Economics & Finance Resources
-
+<h1 align="center">Economics & Finance Resources</h1>
 <p align="center">
   <img src="assets/images/logo.png" alt="Economics and Finance Resources logo" width="280">
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Curated-Economics%20%26%20Finance-374151?style=flat-square" alt="Curated economics and finance resources">
+  <img src="https://img.shields.io/badge/Status-In%20Development-D97706?style=flat-square" alt="Project status">
+  <img src="https://img.shields.io/badge/Open%20Access-Preferred-2563EB?style=flat-square" alt="Open access preferred">
+  <a href="CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-16A34A?style=flat-square" alt="Contributions welcome">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/quantthieres/Economics-Finance-Resources?style=flat-square" alt="Last commit">
+</p>
 A curated collection of resources on economics, econometrics, finance, energy,
 commodities, data and quantitative methods.
 
