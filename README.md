@@ -97,22 +97,6 @@ students, researchers, analysts and other interested readers.
 
 ---
 
-## Resource Format
-
-Each resource should preferably include:
-
-- **Title**
-- **Author or institution**
-- **Type**
-- **Topic**
-- **Level**
-- **Short description**
-- **Why it is useful**
-- **Access link**
-- **Code or replication availability**
-
----
-
 ## Contributing
 
 Suggestions are welcome through issues and pull requests.
