@@ -1,5 +1,9 @@
 # Economics & Finance Resources
 
+<p align="center">
+  <img src="assets/images/logo.png" alt="Economics and Finance Resources logo" width="280">
+</p>
+
 A curated collection of resources on economics, econometrics, finance, energy,
 commodities, data and quantitative methods.
 
