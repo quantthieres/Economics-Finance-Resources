@@ -17,6 +17,12 @@ finance, business and financial markets.
 
 - [Quantum Economics and Finance](https://www.youtube.com/playlist?list=PLXQuDqjDYq23fUB_zyX6-wJYVeHlfreyM) - David Orrell’s introduction to quantum methods and their applications in economics and finance.
 
+## Statistics and Data Science
+
+- [Cibele Russo USP](https://www.youtube.com/@cibelerussousp) - Channel with lectures and practical content on statistics, data science, visualization, econometrics and applications in R.
+
+- [Data Science: From Zero to Beginner](https://www.youtube.com/playlist?list=PL5WY8hdpR3yZDfcO8w7avtGqP7L9RpkM8) - Introductory playlist covering fundamental concepts and initial tools for learning data science.
+
 ## Python and Machine Learning
 
 - [Python, Finance and Machine Learning](https://www.youtube.com/playlist?list=PLcFcktZ0wnNmOcf5qgqp29K4fiG3N8-ia) - Tutorials on Python, regression, financial analysis and introductory machine-learning applications.
@@ -30,3 +36,5 @@ finance, business and financial markets.
 - [Sequoia Capital and the Evolution of Venture Capital](https://youtu.be/U-FLEO0Ndrg) - Financial Times film on Sequoia Capital and the development of the venture-capital industry.
 
 - [How McKinsey Became So Powerful](https://youtu.be/BBmmMj_maII) - CNBC documentary on the growth, influence and controversies surrounding McKinsey & Company.
+
+- [The System of Money](https://www.youtube.com/watch?v=kw0QVwt7LVI) - Documentary on money creation, central banking and the structure of the financial system, exploring who creates money, how it is allocated and how financial crises affect ordinary people.
