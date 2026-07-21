@@ -9,4 +9,4 @@ economics, finance, research and professional development.
 
 ## Academic Resource Collections
 
-- [Manoel Bittencourt — Resources](https://sites.google.com/view/manoel-bittencourt/resources) - Collection of bibliographical resources, economic datasets, econometrics materials, software, macroeconomics references and guidance for graduate students.
+- [Manoel Bittencourt - Resources](https://sites.google.com/view/manoel-bittencourt/resources) - Collection of bibliographical resources, economic datasets, econometrics materials, software, macroeconomics references and guidance for graduate students.
