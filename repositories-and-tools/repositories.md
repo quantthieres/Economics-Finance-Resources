@@ -19,3 +19,11 @@ to economics, finance and quantitative methods.
 ## Machine Learning and Trading
 
 - [Machine Learning for Trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and case studies on machine learning, financial data, backtesting and trading strategies.
+  
+-  [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete) - Collection of 35 notebooks covering Python, data analysis, visualization, classical machine learning, computer vision, NLP and MLOps.
+
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft’s 12-week curriculum with 26 lessons, quizzes, assignments and project-based introductions to classical machine learning.
+
+## Python and Financial Computing
+
+- [J.P. Morgan Python Training](https://github.com/jpmorganchase/python-training) - Introductory training materials on numerical computing and data visualization in Python for analysts and traders.
