@@ -5,11 +5,16 @@ to economics, finance and quantitative methods.
 
 ## Quantitative Finance
 
-- [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) - Curated list of libraries, tools, datasets and resources for quantitative finance.
+- [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) - Extensive curated list of quantitative-finance libraries, tools, datasets, papers and learning resources.
 
 - [Computational Finance Course](https://github.com/LechGrzelak/Computational-Finance-Course) - Course materials and Python implementations on derivatives pricing, stochastic models and numerical methods.
 
-- [Financial Models and Numerical Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Jupyter notebooks covering financial models, stochastic processes, option pricing and portfolio methods.
+- [Qlib](https://github.com/microsoft/qlib) - Microsoft's open-source platform for developing and evaluating AI-based quantitative investment strategies.
+
+- [GS Quant](https://github.com/goldmansachs/gs-quant) - Goldman Sachs' Python toolkit for quantitative finance, derivatives, pricing, risk and strategy development.
+
+- [Financial Models and Numerical Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Interactive notebooks on option pricing, stochastic processes, volatility models and numerical methods.
+
 
 ## Machine Learning and Trading
 
