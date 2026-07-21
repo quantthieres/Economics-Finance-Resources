@@ -1,7 +1,7 @@
 # Videos and Playlists
 
-Curated video courses, lectures and playlists on economics, finance,
-quantitative methods and programming.
+Curated lectures, documentaries, courses and educational videos on economics,
+finance, business and financial markets.
 
 ## Finance
 
@@ -20,3 +20,13 @@ quantitative methods and programming.
 ## Python and Machine Learning
 
 - [Python, Finance and Machine Learning](https://www.youtube.com/playlist?list=PLcFcktZ0wnNmOcf5qgqp29K4fiG3N8-ia) - Tutorials on Python, regression, financial analysis and introductory machine-learning applications.
+
+## Must-Watch Finance and Economics Videos
+
+- [Game of Loans](https://youtu.be/LPPUIFz29uc) - Bank of America video explaining banking, credit and financial-system concepts through a fictional narrative.
+
+- [How the Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - Ray Dalio's visual explanation of credit cycles, productivity, debt and macroeconomic fluctuations.
+
+- [Sequoia Capital and the Evolution of Venture Capital](https://youtu.be/U-FLEO0Ndrg) - Financial Times film on Sequoia Capital and the development of the venture-capital industry.
+
+- [How McKinsey Became So Powerful](https://youtu.be/BBmmMj_maII) - CNBC documentary on the growth, influence and controversies surrounding McKinsey & Company.
